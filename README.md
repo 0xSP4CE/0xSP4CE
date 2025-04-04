@@ -20,11 +20,3 @@ Welcome to my GitHub profile! I'm passionate about web development, modern techn
 
 - 💼 [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
 - 📬 Email: *your.email@example.com*
-
-## ⚡ Fun Fact
-
-> I enjoy coding as much as customizing my Linux setup on a quiet Sunday night.
-
----
-
-Thanks for stopping by! Feel free to explore my repositories or drop me a message 👇  
