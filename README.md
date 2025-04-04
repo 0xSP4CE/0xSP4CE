@@ -1,6 +1,3 @@
-![banner](banner.png)
-
-
 ## 👋 Hi !
 
 I build things sometimes useful, sometimes just for fun.
