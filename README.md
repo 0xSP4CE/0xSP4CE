@@ -1,7 +1,7 @@
 # 👋 Hi !
 
 I'm Michel
-I build things — sometimes useful, sometimes just for fun.
+I build things sometimes useful, sometimes just for fun.
 
 I create web apps using **Laravel**, **Vue.js**, and **Tailwind CSS**.  
 I'm also diving into system automation with **PowerShell**, **Linux**, and **server-side scripting**.
