@@ -10,3 +10,6 @@ On the backend, I often use **Laravel**, and I love working with **Linux servers
 
 ### **Automated Outlook Signature System**  
 PowerShell script that generates dynamic HTML email signatures based on Active Directory data, deployed via GPO on Windows Server.
+
+### **VPS Monitoring Dashboard**  
+A frontend dashboard built in **Vue.js** + **Tailwind CSS** to monitor server stats and health for a personal VPS hosted on Linux.
