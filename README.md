@@ -1,13 +1,12 @@
 # 👋 Hi !
 
-I'm Michel
-I build things sometimes useful, sometimes just for fun.
+I build things — sometimes useful, sometimes just for fun.
 
-I create web apps using **Laravel**, **Vue.js**, and **Tailwind CSS**.  
-I'm also diving into system automation with **PowerShell**, **Linux**, and **server-side scripting**.
+I specialize in building modern, responsive web interfaces with **Vue.js** and **Tailwind CSS**.  
+These are my go-to tools for crafting fast, beautiful, and maintainable frontends.
 
-Currently learning and experimenting with full-stack development,  
-and always up for a good challenge.
+On the backend, I often use **Laravel**, and I love working with **Linux servers** —  
+from setting them up to automating deployments and managing infrastructure.
 
 ## 🚀 About Me
 
