@@ -8,5 +8,5 @@ On the backend, I often use **Laravel**, and I love working with **Linux servers
 
 ## 🌱 My Projects
 
-- ⚙️ **Automated Outlook Signature System**  
-  PowerShell script that generates dynamic HTML email signatures based on Active Directory data, deployed via GPO on Windows Server.
+⚙️ **Automated Outlook Signature System**  
+PowerShell script that generates dynamic HTML email signatures based on Active Directory data, deployed via GPO on Windows Server.
