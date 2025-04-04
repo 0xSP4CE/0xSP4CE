@@ -13,3 +13,8 @@ PowerShell script that generates dynamic HTML email signatures based on Active D
 
 ### **VPS Monitoring Dashboard**  
 A frontend dashboard built in **Vue.js** + **Tailwind CSS**, using **Axios** to fetch real-time data, for monitoring server stats and health on a personal Linux VPS.
+
+## 🎏・Contact
+
+- 💬 Discord: `@0x_mich`
+- 🌐 Portfolio: https://michelmarcotte.fr
