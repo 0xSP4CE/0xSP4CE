@@ -1,5 +1,7 @@
 ## 👋 Hi !
 
+![banner](banner.png)
+
 I build things sometimes useful, sometimes just for fun.
 
 I specialize in building modern, responsive web interfaces with **Vue.js** and **Tailwind CSS**. These are my go-to tools for crafting fast, beautiful, and maintainable frontends.
