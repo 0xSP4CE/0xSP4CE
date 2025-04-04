@@ -12,4 +12,4 @@ On the backend, I often use **Laravel**, and I love working with **Linux servers
 PowerShell script that generates dynamic HTML email signatures based on Active Directory data, deployed via GPO on Windows Server.
 
 ### **VPS Monitoring Dashboard**  
-A frontend dashboard built in **Vue.js** + **Tailwind CSS** to monitor server stats and health for a personal VPS hosted on Linux.
+A frontend dashboard built in **Vue.js** + **Tailwind CSS**, using **Axios** to fetch real-time data, for monitoring server stats and health on a personal Linux VPS.
