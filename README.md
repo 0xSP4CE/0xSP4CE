@@ -1,6 +1,13 @@
-# 👋 Hi there!
+# 👋 Hi !
 
-Welcome to my GitHub profile! I'm passionate about web development, modern technologies, and system optimization. Here you'll find personal projects, open source contributions, and a bit of technical exploration.
+I'm Michel
+I build things — sometimes useful, sometimes just for fun.
+
+I create web apps using **Laravel**, **Vue.js**, and **Tailwind CSS**.  
+I'm also diving into system automation with **PowerShell**, **Linux**, and **server-side scripting**.
+
+Currently learning and experimenting with full-stack development,  
+and always up for a good challenge.
 
 ## 🚀 About Me
 
