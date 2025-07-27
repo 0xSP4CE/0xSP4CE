@@ -16,6 +16,7 @@ A frontend dashboard built in **Vue.js** + **Tailwind CSS**, using **Axios** to 
 
 ## 🚀 Tech Stack
 
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt&logoColor=4FC08D)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-06B6D4?style=for-the-badge&logo=typescript&logoColor=white)
