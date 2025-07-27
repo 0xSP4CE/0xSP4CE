@@ -1,4 +1,4 @@
-## 👋 Hi !
+pre## 👋 Hi !
 
 I build things sometimes useful, sometimes just for fun.
 
@@ -21,7 +21,7 @@ A frontend dashboard built in **Vue.js** + **Tailwind CSS**, using **Axios** to 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-06B6D4?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=Express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
