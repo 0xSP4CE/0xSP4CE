@@ -1,4 +1,4 @@
-pre## 👋 Hi !
+## 👋 Hi !
 
 I’m a fullstack developer specialized in building clean, responsive web applications using Vue.js, Nuxt, and Tailwind CSS. I focus on creating fast, intuitive, and maintainable user interfaces.
 
