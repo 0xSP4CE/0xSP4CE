@@ -1,18 +1,12 @@
 pre## 👋 Hi !
 
-I build things sometimes useful, sometimes just for fun.
+I build things—sometimes useful, sometimes just for fun.
 
-I specialize in building modern, responsive web interfaces with **Vue.js** and **Tailwind CSS**. These are my go-to tools for crafting fast, beautiful, and maintainable frontends.
+I'm a fullstack developer who loves crafting modern, responsive web interfaces using Vue.js, Nuxt, and Tailwind CSS. These tools are my go-to for building fast, elegant, and maintainable frontends.
 
-On the backend, I often use **Laravel**, and I love working with **Linux servers** from setting them up to automating deployments and managing infrastructure.
+On the backend, I work primarily with Node.js (Express) and sometimes Laravel, depending on the project. I enjoy designing robust APIs and making sure everything runs smoothly behind the scenes.
 
-## 🌱 My Projects
-
-### **Automated Outlook Signature System**  
-PowerShell script that generates dynamic HTML email signatures based on Active Directory data, deployed via GPO on Windows Server.
-
-### **VPS Monitoring Dashboard**  
-A frontend dashboard built in **Vue.js** + **Tailwind CSS**, using **Axios** to fetch real-time data, for monitoring server stats and health on a personal Linux VPS.
+I'm also comfortable managing Linux servers, whether it's setting them up from scratch, automating deployments, or fine-tuning infrastructure for performance and reliability.
 
 ## 🚀 Tech Stack
 
@@ -27,8 +21,3 @@ A frontend dashboard built in **Vue.js** + **Tailwind CSS**, using **Axios** to 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🎏・Contact
-
-- 💬 Discord: `@0x_mich`
-- 🌐 Portfolio: https://michelmarcotte.fr
