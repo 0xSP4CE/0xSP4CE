@@ -1,12 +1,10 @@
 pre## 👋 Hi !
 
-I build things—sometimes useful, sometimes just for fun.
+I’m a fullstack developer specialized in building clean, responsive web applications using Vue.js, Nuxt, and Tailwind CSS. I focus on creating fast, intuitive, and maintainable user interfaces.
 
-I'm a fullstack developer who loves crafting modern, responsive web interfaces using Vue.js, Nuxt, and Tailwind CSS. These tools are my go-to for building fast, elegant, and maintainable frontends.
+On the backend, I work primarily with Node.js (Express), and occasionally with Laravel, depending on the project’s needs. I’m particularly interested in designing robust APIs, implementing secure authentication, and ensuring backend reliability in production environments.
 
-On the backend, I work primarily with Node.js (Express) and sometimes Laravel, depending on the project. I enjoy designing robust APIs and making sure everything runs smoothly behind the scenes.
-
-I'm also comfortable managing Linux servers, whether it's setting them up from scratch, automating deployments, or fine-tuning infrastructure for performance and reliability.
+Beyond the web stack, I take interest in Lua and enjoy working with Linux servers, from initial setup to deployment automation and infrastructure management.
 
 ## 🚀 Tech Stack
 
