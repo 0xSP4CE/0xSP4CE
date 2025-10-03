@@ -9,7 +9,7 @@ Beyond the web stack, I take interest in Lua and enjoy working with Linux server
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,tailwind,ts,nodejs,nestjs,java,php,laravel,lua,mysql,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,ts,nodejs,nestjs,java,php,laravel,lua,mysql,postgres,linux,docker" />
 </p>
 
 ## 📫 Contact Me
