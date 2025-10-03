@@ -2,7 +2,7 @@
 
 I’m a fullstack developer specialized in building clean, responsive web applications using Vue.js, and Tailwind CSS. I focus on creating fast, intuitive, and maintainable user interfaces.
 
-On the backend, I work primarily with Node.js (Express), and occasionally with Laravel, depending on the project’s needs. I’m particularly interested in designing robust APIs, implementing secure authentication, and ensuring backend reliability in production environments.
+On the backend, I work primarily with Node.js, and occasionally with Laravel, depending on the project’s needs. I’m particularly interested in designing robust APIs, implementing secure authentication, and ensuring backend reliability in production environments.
 
 Beyond the web stack, I take interest in Lua and enjoy working with Linux servers, from initial setup to deployment automation and infrastructure management.
 
@@ -14,6 +14,9 @@ Beyond the web stack, I take interest in Lua and enjoy working with Linux server
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-FFFFFF?style=for-the-badge&logo=fastify&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
