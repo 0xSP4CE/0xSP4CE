@@ -11,3 +11,9 @@ Beyond the web stack, I take interest in Lua and enjoy working with Linux server
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,tailwind,ts,nodejs,nestjs,java,php,laravel,lua,mysql,linux,docker" />
 </p>
+
+## 📫 Contact Me
+
+- **Email:** [marcotte.michel@orange.fr](mailto:marcotte.michel@orange.fr)  
+- **LinkedIn:** [https://www.linkedin.com/in/michel-marcotte/](https://www.linkedin.com/in/michel-marcotte/)  
+- **Portfolio:** [https://michelmarcotte.fr](https://michelmarcotte.fr)
