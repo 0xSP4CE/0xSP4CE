@@ -9,7 +9,6 @@ Beyond the web stack, I take interest in Lua and enjoy working with Linux server
 ## 🚀 Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-42b883?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
