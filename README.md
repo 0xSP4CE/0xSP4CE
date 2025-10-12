@@ -14,6 +14,8 @@ Beyond the web stack, I take interest in Lua and enjoy working with Linux server
 
 ## 📫 Contact Me
 
-- <strong>Email:</strong> <a href="mailto:marcotte.michel@orange.fr" target="_blank">marcotte.michel@orange.fr</a>  
-- <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/michel-marcotte/" target="_blank">https://www.linkedin.com/in/michel-marcotte/</a>  
-- <strong>Portfolio:</strong> <a href="https://michelmarcotte.fr" target="_blank">https://michelmarcotte.fr</a>
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:marcotte.michel@orange.fr" target="_blank">marcotte.michel@orange.fr</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/michel-marcotte/" target="_blank">https://www.linkedin.com/in/michel-marcotte/</a></li>
+  <li><strong>Portfolio:</strong> <a href="https://michelmarcotte.fr" target="_blank">https://michelmarcotte.fr</a></li>
+</ul>
